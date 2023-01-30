@@ -11,11 +11,11 @@ import os
 
 
     
-channel_id =    'YOUR YOUTUBE ID' #INSERT ID YOUTUBE
-channel_pass =  'YOUR PASSWORD' #INSERT PASS YOUTUBE
-my_email =      'YOUR EMAIL' # INSERT EMAIL GOOGLE
-email_pass =    'YOUR EMAIL PASS' #INSERT PASSWORD EMAIL GOOGLE
-user_data_dir = 'YOUR DIR CHROME PROFILE'#C:\\Users\\{YOUR USER}\\AppData\\Local\\Google\\{YOUR CHROME}\\User Data\\Default
+channel_id =    '@ZaneGTPS' #INSERT ID YOUTUBE
+channel_pass =  'Piseth232377' #INSERT PASS YOUTUBE
+my_email =      'manx7244@gmail.com' # INSERT EMAIL GOOGLE
+email_pass =    'Piseth232377' #INSERT PASSWORD EMAIL GOOGLE
+user_data_dir = 'C:\Users\MSI-PC\AppData\Local\Programs\Python\Python39\Lib\site-packages'#C:\\Users\\{YOUR USER}\\AppData\\Local\\Google\\{YOUR CHROME}\\User Data\\Default
 delay_action = 6 #delay for action
 delay_popup = 40 #delay for get stats
 
@@ -107,9 +107,5 @@ while left_videos:
     except:
         print("[===========================================]")
         print("No more videos left on SubPals.")
-        print("[===========================================]")
+        p
         
-        break
-
-    time.sleep(2)
-quit()
